@@ -1,0 +1,6 @@
+c:\users\otávio\source\repos\MCalc\MCalc\bin\Debug\MCalc.exe.config
+c:\users\otávio\source\repos\MCalc\MCalc\bin\Debug\MCalc.exe
+c:\users\otávio\source\repos\MCalc\MCalc\bin\Debug\MCalc.pdb
+c:\users\otávio\source\repos\MCalc\MCalc\obj\Debug\MCalc.csproj.CoreCompileInputs.cache
+c:\users\otávio\source\repos\MCalc\MCalc\obj\Debug\MCalc.exe
+c:\users\otávio\source\repos\MCalc\MCalc\obj\Debug\MCalc.pdb
